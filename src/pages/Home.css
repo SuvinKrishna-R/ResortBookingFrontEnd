@@ -1,0 +1,32 @@
+Image {
+    height: 100%;
+    width: 100%;
+}
+
+#carouselCaptions {
+    text-align: center;
+    font-size: 6rem;
+
+}
+
+
+#searchbar {
+    width: '100%';
+    background-image: linear-gradient(rgba(0, 0, 0, 0.945), rgba(11, 10, 5, 0.096)), url("https://i.postimg.cc/cL9N5Z94/hotel-1831072-1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#cards1:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.1, 1.1);
+
+}
+
+#searchbar1:hover {
+    transform: scale(1.1, 1.1);
+
+
+}

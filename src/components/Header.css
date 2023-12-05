@@ -1,0 +1,30 @@
+#webName{
+    font-size: 6vh;
+    height: 100%;
+    width: 70%;
+}
+
+#resort1:hover{
+    transform: scale(1.1,1.1);
+}
+#aboutus1:hover{
+    transform: scale(1.1,1.1);
+}
+
+#AllBooking:hover{
+    transform: scale(1.1,1.1);
+}
+
+#AddResorts:hover{
+    transform: scale(1.1,1.1);
+}
+
+#logout:hover{
+    transform: scale(1.1,1.1);
+
+}
+
+#login:hover{
+    transform: scale(1.1,1.1);
+
+}
